@@ -1,0 +1,5 @@
+wasd - covek mrda
+e - covek otkriva
+o - covek otvara oci (dodeka e legnat vo krevet)
+c - covek zatvora oci (isto vazi dodeka e vo krevet)
+space - covek stanuva od krevet (za da legne na prvo mesto, treba da go e-ne krevet)
